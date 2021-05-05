@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OpulentTE
-- 👀 I’m interested in Automation
+- 👀 I’m interested in Automation, CI/CD anything IT
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
