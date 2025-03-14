@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OpulentTE
+- 👋 Hi, I’m @codevenum
 - 👀 I’m interested in Automation, CI/CD anything IT
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
